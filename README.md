@@ -4,7 +4,7 @@
 <p>Atualmente tenho alguns projetos em desenvovlimento voltado para o aprendizado de máquina profundo</p>
 <h3 align="left">Entre em Contato:</h3>
 <p align="left">
-   <a href="https://linkedin.com/in/matheus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/matheuscvasconcelos/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus" height="30" width="40" /></a>
 </p>
 <div style="float left;">
    <h3 align="left">Linguagens e ferramentas que utilizo:</h3>
